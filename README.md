@@ -31,7 +31,7 @@ Hi and welcome! I am Chico Chen, currently pursuing a Master’s program in Comp
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChicoChen&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChicoChen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&PAT_1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChicoChen&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChicoChen&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook&langs_count=8"/>
 </details>
 
 ---------------------
