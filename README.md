@@ -1,17 +1,17 @@
 ## Hello there 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shang-chi-chen-b11a4a352/)
 
-Hi and welcome! I am Chico Chen, currently pursuing a Master’s program in Computer Science. Diligently striving to broaden and deepen my expertise in the field.
+Hi and welcome! I am Chico Chen, currently pursuing a Master’s program in Computer Science. Diligently striving to broaden my expertise in the field.
 
 ### Some Personal Stuff:
 - 🔍 &nbsp; Current research mainly focuses on **Compiler**.
 - ⌨️ &nbsp; Primary Programming Languages: C++, Python, C, etc.
-- 📚 &nbsp; Active Learning Objectives: Linux Systems, Embedded  systems, Operating System, Machine Learning, etc.
-- 📧 &nbsp; Feel free to contact me at [chin2839211@gmail.com](mailto:chin2839211@gmail.com)
+- 📚 &nbsp; Active Learning Objectives: Linux, Embedded Systems, Operating System, Machine Learning, etc.
+- 📧 &nbsp; Feel free to contact me at [chin2839211@gmail.com](mailto:chin2839211@gmail.com).
 
 
 ### My Preferences:
-- 🤓  &nbsp; Understanding new knowledge from a fun and interesting perspectiv.
+- 🤓  &nbsp; Understanding new knowledge from a fun and interesting perspective.
 - 🚀 &nbsp; Personal growth.
 - 🐸 &nbsp; Frog.
 
